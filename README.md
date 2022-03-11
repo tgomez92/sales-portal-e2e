@@ -1,5 +1,6 @@
 # sales-portal-e2e : Readme
 
+
 About: This project has been developed to automate the Sales Portal Process. It uses Cucumber, WebdriverIO, Allure Reporter & Mocha.  
   
 #  Index
@@ -110,22 +111,3 @@ About: This project has been developed to automate the Sales Portal Process. It 
   
   - ✔️ Use world.js to save any kind of information: numbers, objects, arrays, strings. 
   - ✔️ Useful to determine milestones in multi-step pages (Example: Coverage Page) 
- 
-  
-  
-  
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-   
-
-  
-  
-  
